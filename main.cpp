@@ -3,13 +3,13 @@
 int main() {
 	
 	printf("modified...\n");
-	pritnf("LC1A_19_Å²Ä³_¿³Ä\n");
+	pritnf("LC1A_19_ï¾…ï½²ï¾„ï½³_ï½¿ï½³ï¾„\n");
 
-	printf("playerì¬\n");
+	printf("playerä½œæˆ\n");
 
-	printf("ƒ}[ƒW‚µ‚Ä‚­‚¾‚³‚¢B\n");
+	printf("ãƒãƒ¼ã‚¸ã—ã¦ãã ã•ã„ã€‚\n");
 
-	printf("ƒ}[ƒW‚µ‚Ü‚¹‚ñII\n");
+  printf("ã¾ã˜ã§ãƒãƒ¼ã‚¸ã—ã¾ã™ï¼\n);
 
 	return 0;
 }
