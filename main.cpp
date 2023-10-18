@@ -9,5 +9,7 @@ int main() {
 
 	printf("マージしてください。\n");
 
+	printf("マージしません！！\n");
+
 	return 0;
 }
