@@ -9,7 +9,7 @@ int main() {
 
 	printf("マージしてください。\n");
 
-  printf("まじでマージします！\n);
+  	printf("まじでマージします！\n);
 
 	return 0;
 }
