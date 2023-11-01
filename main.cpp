@@ -3,6 +3,7 @@
 int main() {
 	
 	printf("modified...\n");
+
 	printf("LC1A_19_ﾅｲﾄｳ_ｿｳﾄ\n");
 
 	printf("player作成\n");
@@ -10,10 +11,6 @@ int main() {
 	printf("マージしてください。\n");
 
 	printf("まじでマージします！\n");
-
-	printf("プルリクエストの作成\n");
-
-	printf("プルせずに作業");
 
 	return 0;
 }
