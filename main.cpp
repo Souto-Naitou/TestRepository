@@ -12,7 +12,7 @@ int main() {
 
 	printf("まじでマージします！\n");
 
-	printf("プルリクエストの作成");
+	printf("プルしてから作業しましょう");
 
 	return 0;
 }
