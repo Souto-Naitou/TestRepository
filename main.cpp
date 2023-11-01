@@ -11,7 +11,5 @@ int main() {
 
   	printf("まじでマージします！\n");
 
-  	printf("プルせずに作業\n");
-
 	return 0;
 }
