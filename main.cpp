@@ -13,5 +13,7 @@ int main() {
 
 	printf("プルリクエストの作成\n");
 
+	printf("プルせずに作業");
+
 	return 0;
 }
