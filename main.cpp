@@ -12,7 +12,7 @@ int main() {
 
 	printf("まじでマージします！\n");
 
-	printf("プルする前に作業\n");
+	
 
 	return 0;
 }
