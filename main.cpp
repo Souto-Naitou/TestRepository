@@ -9,7 +9,9 @@ int main() {
 
 	printf("マージしてください。\n");
 
-  	printf("まじでマージします！\n");
+	printf("まじでマージします！\n");
+
+	printf("プルリクエストの作成\n");
 
 	return 0;
 }
